@@ -1,4 +1,10 @@
 
+# FORKED FROM mts88/mongogrid
+Original repo:  [mts88/mongogrid](https://github.com/mts88/mongogrid)
+
+# Changelogs
+Forked and update to ramsey/uuid:v4
+
 # Laravel MongoDB GridFS
 
 [![Latest Stable Version](https://poser.pugx.org/mts88/mongogrid/v/stable)](https://packagist.org/packages/mts88/mongogrid)
@@ -34,15 +40,15 @@ Make sure you have the MongoDB PHP driver installed. You can find installation i
 ### Installation
 1. Installation using composer:
 ```
-composer require mts88/mongogrid
+composer require develoopin/mongogrid
 ```
 2. And add the service provider in  `config/app.php`:
 ```php
-Mts88\MongoGrid\Providers\MongoGridServiceProvider,
+Develoopin\MongoGrid\Providers\MongoGridServiceProvider,
 ```
 4. You may also register an alias for the MongoGrid library by adding the following to the alias array in  `config/app.php`:
 ```php
-'MongoGrid'       => Mts88\MongoGrid\Facades\MongoGrid,
+'MongoGrid'       => Develoopin\MongoGrid\Facades\MongoGrid,
 ```
 ## Configuration
 

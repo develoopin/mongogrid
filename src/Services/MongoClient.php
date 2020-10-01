@@ -1,6 +1,6 @@
 <?php
 
-namespace Mts88\MongoGrid\Services;
+namespace Develoopin\MongoGrid\Services;
 
 use \MongoDB\Client;
 

@@ -1,6 +1,6 @@
 <?php
 
-namespace Mts88\MongoGrid\Contracts;
+namespace Develoopin\MongoGrid\Contracts;
 
 interface MongoGridFactory {
 

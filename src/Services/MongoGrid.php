@@ -1,9 +1,9 @@
 <?php
 
-namespace Mts88\MongoGrid\Services;
+namespace Develoopin\MongoGrid\Services;
 
-use \Mts88\MongoGrid\Services\MongoClient;
-use \Mts88\MongoGrid\Contracts\MongoGridFactory;
+use \Develoopin\MongoGrid\Services\MongoClient;
+use \Develoopin\MongoGrid\Contracts\MongoGridFactory;
 use \Ramsey\Uuid\Uuid;
 use \Carbon\Carbon;
 use Storage;

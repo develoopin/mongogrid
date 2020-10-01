@@ -1,9 +1,9 @@
 <?php
 
-namespace Mts88\MongoGrid\Providers;
+namespace Develoopin\MongoGrid\Providers;
 
 use \Illuminate\Support\ServiceProvider;
-use \Mts88\MongoGrid\Services\MongoGrid;
+use \Develoopin\MongoGrid\Services\MongoGrid;
 
 class MongoGridServiceProvider extends ServiceProvider
 {
