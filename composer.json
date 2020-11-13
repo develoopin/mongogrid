@@ -2,7 +2,7 @@
     "name": "develoopin/mongogrid",
     "description": "GridFS of MongoDB for Laravel",
     "license": "MIT",    
-    "version": "1.2.0",
+    "version": "1.2.1",
     "keywords": [
         "mongodb", "gridfs", "mongo", "grid", "laravel", "mongogrid", "storage", "file", "bucket", "database", "store", "documents"
     ],
